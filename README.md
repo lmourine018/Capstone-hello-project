@@ -27,7 +27,7 @@ Elixir is commonly used for:
 
 ---
 
-### 🔷 **Phoenix Framework**
+### **Phoenix Framework**
 
 Phoenix is a web framework built with Elixir.
 
@@ -85,7 +85,7 @@ mix setup
 
 ---
 
-### ▶ Start the Server
+### Start the Server
 
 ```bash
 mix phx.server
@@ -101,7 +101,7 @@ iex -S mix phx.server
 
 Now open:
 
-👉 [http://localhost:4000](http://localhost:4000/redirect-test)
+[http://localhost:4000](http://localhost:4000/redirect-test)
 
 You should see the Phoenix welcome page.
 
@@ -129,7 +129,7 @@ Ready to run in production? Please check our deployment guides:
 
 ---
 
-## 3️⃣ Minimal Working Example (Hello World)
+##  Minimal Working Example (Hello World)
 
 In Phoenix, the default homepage already acts as a working example.
 
@@ -248,7 +248,7 @@ mix deps.compile
 
 ---
 
-### ❌ Error 5: Route not found (404)
+### Error 5: Route not found (404)
 
 **Cause:** Router not updated correctly.
 
